@@ -1,0 +1,16 @@
+{
+  "name": "ianstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass scss/style.scss dist/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "Ian Boldea",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "tailwindcss": "^1.2.0"
+  }
+}

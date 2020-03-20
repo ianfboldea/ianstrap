@@ -1,0 +1,6 @@
+@mixin easeIn {
+  transition: ease-in 0.2s;
+}
+@mixin easeOut {
+  transition: ease-out 0.2s;
+}
